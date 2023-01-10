@@ -33,7 +33,7 @@ img {
 }
 
 .play{
-  margin-top: 48px;
+  margin-top: 24px;
   background-color: #4ECCA3;
   color: #101010;
   font-size: 1.5rem;
@@ -41,11 +41,10 @@ img {
   border: none;
   border-radius: 5px;
   padding: 10px;
-  margin: 10px;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 24px;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
